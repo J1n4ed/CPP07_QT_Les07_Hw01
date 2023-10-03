@@ -20,5 +20,5 @@
 - https://drive.google.com/file/d/1XjmogNteEejjzuQXseCR_kZg6TuZ58C9/view?usp=drive_link ссылка на файл testData.adc
 
 CPP-07
-27.09.2023
+03.10.2023
 [@J1n4ed](https://github.com/J1n4ed)
